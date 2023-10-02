@@ -1,7 +1,8 @@
 # The-Complete-Guide-to-Becoming-a-Data-Scientist-2023-2024.
 ## Beginner's Guide
 
-<img src = "https://github.com/Drwaley/Fifa2021--Data--Cleaning-Task/blob/main/intro_image.png" width = "1780" height= "500">
+
+<img src = "https://github.com/Drwaley/The-Complete-Guide-to-Becoming-a-Data-Scientist-2023-2024./blob/main/datascience.png" width = "1780" height= "500">
 
 
 # Introduction
