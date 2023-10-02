@@ -1,6 +1,7 @@
 # The-Complete-Guide-to-Becoming-a-Data-Scientist-2023-2024.
 ## Beginner's Guide
 
+<img src = "https://github.com/Drwaley/Fifa2021--Data--Cleaning-Task/blob/main/intro_image.png" width = "1780" height= "500">
 
 
 # Introduction
@@ -432,6 +433,10 @@ Data science is an evolving field. Stay updated by taking advanced courses, atte
 16.3 Embracing a Lifelong Learning Journey
 
 Emphasize that becoming a data scientist is not the end of the journey; it's the beginning of a lifelong learning process. Encourage readers to stay curious, explore, and innovate.
+
+In conclusion, This guide equips you with the knowledge and resources necessary to embark on a fulfilling journey in data science. With its comprehensive coverage of fundamental concepts, practical skills, and ethical considerations, this guide empowers beginners to take confident steps into the dynamic world of data science. As the field continues to evolve, the importance of continuous learning and ethical practice becomes more evident. Embrace this ever-changing landscape, stay curious, and never stop exploring. Your career as a data scientist is not just a destination; it's a lifelong voyage of discovery and innovation. Welcome to the exciting world of data science, and best of luck on your journey!
+
+# THANK YOU! 😃
 
 
 
